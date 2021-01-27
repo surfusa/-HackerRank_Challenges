@@ -4,11 +4,6 @@ namespace Arrays
 {
     public class TwoDArrayDS
     {
-        public TwoDArrayDS()
-        {
-
-        }
-
         public int GetLargestHourGlassValue(int[][] arr)
         {
             int size = arr.Length;
