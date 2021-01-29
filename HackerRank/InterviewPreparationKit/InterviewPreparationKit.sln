@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "..\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulationTests", "..\StringManipulationTests\StringManipulationTests.csproj", "{00509041-A4B9-41D6-A138-11F3198D3E91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesAndHashmaps", "..\DictionariesAndHashmaps\DictionariesAndHashmaps.csproj", "{2B819CEB-8C1A-4A79-B10F-1338E806D917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesAndHashmapsTests", "..\DictionariesAndHashmapsTests\DictionariesAndHashmapsTests.csproj", "{43D6E4B2-BFAD-412C-A2C2-A8248E07C2F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{00509041-A4B9-41D6-A138-11F3198D3E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00509041-A4B9-41D6-A138-11F3198D3E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00509041-A4B9-41D6-A138-11F3198D3E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B819CEB-8C1A-4A79-B10F-1338E806D917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B819CEB-8C1A-4A79-B10F-1338E806D917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B819CEB-8C1A-4A79-B10F-1338E806D917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B819CEB-8C1A-4A79-B10F-1338E806D917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D6E4B2-BFAD-412C-A2C2-A8248E07C2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D6E4B2-BFAD-412C-A2C2-A8248E07C2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D6E4B2-BFAD-412C-A2C2-A8248E07C2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D6E4B2-BFAD-412C-A2C2-A8248E07C2F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
