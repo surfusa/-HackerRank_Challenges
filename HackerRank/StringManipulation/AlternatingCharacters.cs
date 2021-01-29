@@ -4,6 +4,11 @@ using System.Text;
 
 namespace StringManipulation
 {
+        /// <summary>
+        /// Counts how many deletions must be made to make a string alternating
+        /// </summary>
+        /// <param name="s">s: string being tested that only contains As and Bs</param>
+        /// <returns>Number of </returns>
     public class AlternatingCharacters
     {
         public int alternatingChar (string s)
