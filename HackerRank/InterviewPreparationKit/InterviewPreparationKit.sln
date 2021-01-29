@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "..\Arrays\Arrays.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysTests", "..\ArraysTests\ArraysTests.csproj", "{9BBBB39F-63E5-4031-8E8C-0A7B5A841EFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "..\StringManipulation\StringManipulation.csproj", "{8BFF1160-D522-4EAE-BA61-5A0663AC8B1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulationTests", "..\StringManipulationTests\StringManipulationTests.csproj", "{00509041-A4B9-41D6-A138-11F3198D3E91}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesAndHashmaps", "..\DictionariesAndHashmaps\DictionariesAndHashmaps.csproj", "{2B819CEB-8C1A-4A79-B10F-1338E806D917}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesAndHashmapsTests", "..\DictionariesAndHashmapsTests\DictionariesAndHashmapsTests.csproj", "{43D6E4B2-BFAD-412C-A2C2-A8248E07C2F0}"
@@ -31,6 +35,14 @@ Global
 		{9BBBB39F-63E5-4031-8E8C-0A7B5A841EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BBBB39F-63E5-4031-8E8C-0A7B5A841EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BBBB39F-63E5-4031-8E8C-0A7B5A841EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFF1160-D522-4EAE-BA61-5A0663AC8B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFF1160-D522-4EAE-BA61-5A0663AC8B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFF1160-D522-4EAE-BA61-5A0663AC8B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFF1160-D522-4EAE-BA61-5A0663AC8B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00509041-A4B9-41D6-A138-11F3198D3E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00509041-A4B9-41D6-A138-11F3198D3E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00509041-A4B9-41D6-A138-11F3198D3E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00509041-A4B9-41D6-A138-11F3198D3E91}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2B819CEB-8C1A-4A79-B10F-1338E806D917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2B819CEB-8C1A-4A79-B10F-1338E806D917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B819CEB-8C1A-4A79-B10F-1338E806D917}.Release|Any CPU.ActiveCfg = Release|Any CPU
